@@ -1,0 +1,39 @@
+@media (max-width: 500px){
+  body{
+    color: green;
+  }
+}
+body{
+  margin-top: 1%;
+  margin-left: 3%;
+  margin-right: 3%;
+  background-color: #e6e6ff;
+}
+
+header{
+  text-align: center;
+}
+.on-hover:hover {
+  text-decoration: underline;
+}
+
+img{
+  border-radius: 10px;
+
+}
+hr{
+  color: black;
+  border-top: 1px solid #aaaaaa;
+}
+.container-full{
+  width:100%
+}
+.centre-block{
+  margin-top: 10px;
+  margin-left: 55px;
+   margin-right: auto;
+   display: block;
+}
+.info{
+  font-size: 120%;
+}
